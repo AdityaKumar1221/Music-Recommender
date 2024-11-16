@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+neattext
+textblob
+collection
+wordcloud
+keras
+tensorflow
+import-ipynb
+flask
